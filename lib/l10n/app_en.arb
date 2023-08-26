@@ -1,0 +1,16 @@
+{
+"language": "English",
+"calendar": "Calendar",
+"profile": "Profile",
+"tasks": "Tasks",
+"category": "Category",
+"writeTask": "Write your task here",
+"manageCategories": "Manage categories",
+"search": "Search",
+"delete": "Delete",
+"deleteToDo": "Delete todo",
+"undo": "Undo",
+"errorLoadingToDo": "Error occurred while loading todos",
+"noToDo": "No todos found",
+"change_language": "Change language"
+}
