@@ -7,6 +7,7 @@ Functions:
 - Change language of the app
 - Search for todos
 
+Aim: To trainmy skills and create good application that satisfy all my needs
 
 ![image](https://github.com/Damncaf-goin-crazy/To_do_list/assets/118183028/10efac16-71af-40b4-bdcc-74b967fa7a8f)
 
