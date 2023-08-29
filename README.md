@@ -1,16 +1,11 @@
-# untitled
+To-do list
 
-A new Flutter project.
+Functions:
+- Write todos and choose time and date to which you wiill need to finish it
+- Create categories of your todos and put your todos in it
+- Change color theme of the app (button will be added soon)
+- Change language of the app
+- Search for todos
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Damncaf-goin-crazy/To_do_list/assets/118183028/10efac16-71af-40b4-bdcc-74b967fa7a8f)
